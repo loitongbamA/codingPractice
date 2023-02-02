@@ -31,5 +31,5 @@ function sumRec (numArr, i = 0, sum = 0){
     return sum;
 }
 
-console.log(sumRec(inputNumArr));
+console.log(sumRec(inputNumArr)); //45  
 ```
